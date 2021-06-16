@@ -1,0 +1,74 @@
+body{
+     background-image: url(../images/background3.jpg); 
+     height: 100%;
+     position: relative;
+}
+.common{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+}
+
+.header{
+    right:5px; 
+    left: 5px;
+    top: 5px;
+    height: 100px;
+    font-size: 25px;
+}
+
+.leftmenu{
+    top:114px;
+    left: 5px; 
+    width: 100px;
+    bottom: 64px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    text-align: center;
+}
+.rightmenu{
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 100px;
+}
+.footer{
+    bottom: 64px;
+    width: 100%;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tableau{
+    width: 400px;
+    height: 600px;
+    align-items: center;
+}
+
+h1{
+    font:300; color: gray;
+}
+
+.h{
+    text-align: top right; 
+    top: 5px; 
+    right: 5px;
+}
+
+.happy{
+     text-align: right; 
+     font-size: 19px; 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: lighter; 
+    color: rgb(54, 54, 54)
+}
+
+  
